@@ -2,7 +2,6 @@
 Jarvis is a simple, speech-enabled virtual assistant built with Python that responds to voice commands to open websites, play music, and read out the latest news headlines. Inspired by the fictional assistant from Iron Man, this project demonstrates the use of speech recognition, text-to-speech, and web integration using Python libraries.
 
 🚀 Features :
-
 🎧 Voice Wake Word Detection — Activates when you say “Jarvis”
 🌐 Open Popular Websites — Supports Google, YouTube, LinkedIn, WhatsApp
 🎵 Play Songs from Your Music Library — Command Jarvis to play a song by name
@@ -10,7 +9,6 @@ Jarvis is a simple, speech-enabled virtual assistant built with Python that resp
 🗣️ Text-to-Speech Response — Gives vocal feedback for actions performed
 
 🛠️ Technologies Used :
-
 speech_recognition – For converting speech to text
 pyttsx3 – For text-to-speech output
 webbrowser – To open URLs in your browser
@@ -18,7 +16,6 @@ requests – To fetch real-time news via News API
 musicLibrary – A custom Python module (dictionary) with predefined songs and their URLs
 
 🧠 How It Works :
-
 Jarvis waits for the wake word "Jarvis" using your system's microphone.
 Once activated, it listens for a follow-up command like:
 "Open Google"
