@@ -34,5 +34,5 @@ Jarvis is a simple, speech-enabled virtual assistant built with Python that resp
 
 ## **👤 Author**
  - Raj Trivedi
-  - 📍 Junagadh, India
+  - 📍 Ahmedabad, India
   - 💡 Python & ML Enthusiast
