@@ -9,7 +9,7 @@ import time                      # To add delay between actions
 # Initialize recognizer and text-to-speech engine
 recgnizer = sr.Recognizer()
 engine = pyttsx3.init()
-newsapi = "9a8e4a6461544c5087cddf151f8beba0"  # Replace with your News API key
+newsapi = "Enter here your api key"  # Replace with your News API key
 
 # Function to speak the given text aloud
 def speak(text):
